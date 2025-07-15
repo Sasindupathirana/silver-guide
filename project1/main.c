@@ -3,10 +3,6 @@
 
 int main()
 {
-
-    int i;
-    for(i=0;i<=1;i++) {
-        printf("Hello world!\n");
-    }
+    printf("Hello world!\n");
     return 0;
 }
